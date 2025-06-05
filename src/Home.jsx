@@ -1,7 +1,7 @@
 
 
 function Home(){
-    returm (
+    return (
         <h1>This is home page</h1>
     )
 }
